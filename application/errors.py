@@ -1,3 +1,0 @@
-
-class InvalidRoute(Exception):
-    pass
